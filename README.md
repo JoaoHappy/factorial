@@ -7,4 +7,4 @@ Abra o arquivo e execute com o swi-prolog.
 
 Digite na linha de comando: factorial(NumeroDesejado, Variavel).
 
-#SEMPRE COLOQUE O PONTO NO FINAL DE CADA INSTRUÇÃO
+# SEMPRE COLOQUE O PONTO NO FINAL DE CADA INSTRUÇÃO 
